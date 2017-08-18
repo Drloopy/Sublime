@@ -1,0 +1,8 @@
+[
+	{ "keys": ["super+shift+r"], "command": "reindent"},
+	 { "keys": ["f3"], "command": "find_use" },
+	 { "keys": ["f4"], "command": "import_namespace" },
+	 { "keys": ["f5"], "command": "implement" },
+	 { "keys": ["f6"], "command": "expand_fqcn" },
+	 { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+]

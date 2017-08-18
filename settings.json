@@ -1,0 +1,62 @@
+{
+	"Seti_ClosedFolder_dots": true,
+	"Seti_ClosedFolder_remove": true,
+	"Seti_ClosedFolder_same": true,
+	"Seti_mouse_wheel_tabswitcher": true,
+	"Seti_no_bar_undertabs": true,
+	"always_show_minimap_viewport": false,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Grant (SL).tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.sass-cache",
+		"combined.js",
+		"*.scssc",
+		"*_ide_helper.php",
+		"*composer.lock",
+		"*/app/storage/*",
+		"*/node_modules/*",
+		"*/Icon",
+		"*/storage/debugbar/*"
+	],
+	"font_face": "Consola Mono",
+	"font_size": 17,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.css",
+		"*/vendor/*"
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"word_wrap": false
+}
