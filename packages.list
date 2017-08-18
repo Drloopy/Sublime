@@ -1,9 +1,21 @@
-CodeComplice
+Install Package Control
+
+CodeCompliance
 Colorsublime - Themes
 Emmet
 Git
 Git Gutter
 Php Companion
-schemr
-themr
-sublimeLinter
+Schemr
+Themr
+SublimeLinter
+
+CMD + SHF + P
+
+Save on change
+Reindent On Save
+DumpMan
+
+Location of Themes:
+
+Library/Application Support/Sublime Text 3/Packages/ColorSublime - Themes
